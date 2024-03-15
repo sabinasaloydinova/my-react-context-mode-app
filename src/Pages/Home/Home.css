@@ -1,0 +1,128 @@
+section {           
+    display: flex;
+}
+.home_title {
+    font-family: Quicksand;
+    font-size: 96px;
+    font-weight: 600;
+    text-align: left;
+    padding-top: 80px;
+    color: #FF8C42;
+    margin-left: 100px;
+}
+
+.home_subtitle {
+    font-family: Quicksand;
+    font-size: 36px;
+    font-weight: 600;
+    text-align: left;
+    color: #FF8C42;
+    text-transform: capitalize;
+    padding: 62px 0px;
+    margin-left: 100px;
+}
+
+.home_left input {
+    width: 283.5px;
+    height: 48px;
+    border: 4px solid #FF8C42;
+    background: transparent;
+    font-family: Quicksand;
+    font-size: 36px;
+    font-weight: 600;
+    color: #FF8C42;
+    padding-left: 10px;
+    margin-left: 100px;
+}
+
+.home_search_btn {
+    font-family: Quicksand;
+    width: 201px;
+    height: 48px;
+    font-size: 20px;
+    font-weight: 600;
+    text-align: left;
+    background-color: #FF8C42;
+    color: #fff;
+    border-radius: 4px;
+    margin-left: 8px;
+    align-items: center;
+    border: none;
+}
+.home__sbtn{
+    border: none;
+    font-family: Quicksand;
+    width: 201px;
+    height: 48px;
+    font-size: 20px;
+    font-weight: 600;
+    text-align: left;
+    background-color: #FF8C42;
+    color: #000;
+    border-radius: 4px;
+    margin-left: 8px;
+    align-items: center;
+}
+
+.home_left_elm {
+    display: flex;
+}
+
+.home_btn {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 191px;
+    height: 40px;
+    font-family: Quicksand;
+    border-radius: 5px;
+    font-weight: 900;
+    background-color: #FF8C42;
+    color: #fff;
+    margin-top: 40px;
+    margin-left: 150px;
+    border: none;
+}
+.hbtn{
+    border: none;
+    width: 191px;
+    height: 40px;
+    font-family: Quicksand;
+    border-radius: 5px;
+    font-weight: 900;
+    background-color: #FF8C42;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: #000;
+    margin-top: 40px;
+    margin-left: 150px;
+}
+.img {
+    width: 972.87px;
+    height: 697.16px;
+   position: relative;
+}
+
+.img2 {
+    width: 50px;
+    height: 50px;
+    position: relative;
+    bottom: 50px;
+    margin-left: 800px;
+} 
+.image{
+    width: 50px;
+    height: 50px;
+    background-color: #151515;
+    border: none;
+    
+}
+.imag{
+    width: 50px;
+    height: 50px;
+    background-color: #fff;
+    border: none;
+    
+}
+
